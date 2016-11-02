@@ -1,0 +1,39 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+A visualização de um diff entre duas versões poupa tempo ao programador, mostrando logo onde se encontram as diferenças existentes. Desta forma, não é necessário verificar, linha por linha onde existe as diferenças entre as duas versões.
+
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Ao ter acesso ao histórico de um arquivo um programador torna-se muito mais eficiente, visto que, caso ocorra um erro, tem sempre as outras versões realizadas guardadas e, deste modo, pode recomeçar ou alterar as diferenças do código mais rapidamente, poupando tempo e preocupações.
+
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Os prós de escolher manualmente quando criar um commit são: o programador está a par de todos os commits realizados, estando atualizado dos existentes e pode atribuir a descrição de cada um deles, de forma a ser mais fácil identifica-los. Os contras do programador poder escolher manualmente quando criar um commit são: criar commits grandes e/ou pequenos demais e a possibilidade deste se esquecer de os realizar.
+O salvamento automático de versões como no Google Docs tem como prós o facto de o utilizador não necessitar de se preocupar acerca disso e, desta forma não haver maneira de acontecer um erro humano. Os contras do salvamento automático de versões são: existência de versões a mais causando dificuldade a identificar qual a versão pretendida e a possibilidade das versões serem salvas a meio de uma alteração e, desta forma, o utilizador precisará de mais do que uma versão para visionar a alteração realizada.
+
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+O GIT permite salvar vários arquivos num commit porque este sistema de controle de versão foi programado especificamente para ser usado em projetos informáticos que são caracterizados pela existência de vários ficheiros, enquanto que, o Google Docs foi programado para ser utilizado em vários tipos de documentos (ex: pdf), por essa razão só é permitido tratar de cada arquivo separadamente.
+
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+Para visualizar o histórico dos arquivos pode-se usar os comandos git log e git diff, visto que, o git log mostra todos os commits realizados antes do commit atual e, respetivamente, os seus ids e o git diff quando usado com dois ids de commits compara as duas versões e demonstra as suas diferenças. Assim sendo, deve-se digitar “git log” e daí extrair os ids dos commits que se pretende comparar para que, posteriormente, quando se digitar “git diff” inseri-los, para que este comando mostre as diferenças.
+
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+O controle de versão oferece mais segurança para fazer alterações porque, desta forma, o utilizador sabe sempre que tem uma maneira para descobrir onde introduziu o erro e assim corrigi-lo.
+
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Pretendo usar o Git para a realização de projetos web, como por exemplo, a realização de websites.
+
+
+
+
+
